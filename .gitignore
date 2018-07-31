@@ -4,3 +4,5 @@
 *.pyo
 *.pkl
 saves/
+locale
+dist
