@@ -7,3 +7,5 @@ icon = activity
 show_launcher = yes
 exec = sugar-activity activity.PeterActivity
 repository = https://github.com/sugarlabs/didg-art-activity.git
+summary = Use your imagination to paint whatever you want using shapes and colors.
+tags = Game;Art
